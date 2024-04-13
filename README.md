@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Mithra Prebha Jayabalan
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Excel, Power BI, SQL, Python
-- 💞️ I’m looking to collaborate Data Analytics 
+- 💞️ I’m looking to collaborate 
 - 📫 Reach me at mithrajayabalan@gmail.com
 - 😄 Pronouns: She/Her
 
